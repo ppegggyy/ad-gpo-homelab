@@ -63,26 +63,6 @@ Verified the following components:
 - Active Directory SRV records.
 - Five FSMO roles.
 
-## Screenshots
-
-### Server Configuration
-![Server Renamed](screenshots/01-server-renamed.png)
-
-### Active Directory Installation
-![AD DS Installed](screenshots/03-adds-installed.png)
-
-### Domain Controller Verification
-![Domain Verification](screenshots/06-domain-verification.png)
-
-### DNS Configuration
-![DNS Manager](screenshots/14-dns-manager.png)
-
-### Domain Controller Health
-![DCDIAG](screenshots/11-dcdiag.png)
-
-## Challenges and Troubleshooting
-
-Document any problems encountered during the lab, their causes, and the steps taken to resolve them.
 
 ## What I Learned
 
