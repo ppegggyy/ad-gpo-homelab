@@ -203,21 +203,9 @@ Additional verification:
 
 ![PowerShell Verification 2](screenshots/09b-powershell-verification.png)
 
-## 9. Troubleshooting
 
-**Problem encountered:**
 
-[Document an actual issue encountered during the lab.]
-
-**Cause:**
-
-[Explain the cause of the issue.]
-
-**Solution:**
-
-[Describe how you resolved it.]
-
-## 10. Key Learning Outcomes
+## 9. Key Learning Outcomes
 
 After completing this lab, I gained practical experience with:
 
